@@ -1,4 +1,4 @@
-#  NOTE- Taker
+#  NoteTaker
 
 
 # ![License](https://img.shields.io/badge/license-MIT-Orange)
@@ -14,10 +14,6 @@
 
 ## Description
 This is a simple note-taking application built using Express.js, a fast and minimalist web framework for Node.js. The app allows users to create, view and delete notes, providing a convenient way to organize and manage their thoughts and ideas.
-![Note Taker](https://github.com/Amritpal-Kaur0/NOTE-Taker/assets/128442182/daeb4ff4-5389-4a75-8ed5-42e36d0a6739)
-![Note Taker (1)](https://github.com/Amritpal-Kaur0/NOTE-Taker/assets/128442182/412aa906-9ebf-4bd9-97bc-5c827ff46d1b)
-
-Deployed Website  -https://amrit-note-taker.herokuapp.com/
 
 
 ## Installation
@@ -40,14 +36,7 @@ Deployed Website  -https://amrit-note-taker.herokuapp.com/
 7. If you run` PORT=4444 node index.js` , Node will use`  process.env.PORT` which equals to 4444 in this example. 
 
 
-## Technologies Used
-* Heroku
-* GitHub
-* Dynamic JavaScript 
-* Node.js 
-* Express.js
-* JSON 
-* Visual Studio Code
+
 
 ## Contribution
  Contributions to this project are welcome. To contribute, please follow these steps:
@@ -61,8 +50,4 @@ Deployed Website  -https://amrit-note-taker.herokuapp.com/
 ## License
   This project is licensed under the MIT license. For more information about the license, go to [License](https://choosealicense.com/licenses/mit/).
 
-## Questions
- If you have encounter any issues or have any Questions Regarding this Project. Connect with me at
 
-- Email -Amrit.gill3005@gmail.com 
-- Github - [Amritpal-Kaur0](https://github.com/Amritpal-Kaur0) 
